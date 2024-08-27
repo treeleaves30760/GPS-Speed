@@ -425,6 +425,8 @@
 				DEVELOPMENT_TEAM = CGZUU74AN7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "此應用需要使用您的位置以顯示當前位置資訊。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "此應用需要使用您的位置以顯示當前位置資訊。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -454,6 +456,8 @@
 				DEVELOPMENT_TEAM = CGZUU74AN7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "此應用需要使用您的位置以顯示當前位置資訊。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "此應用需要使用您的位置以顯示當前位置資訊。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
